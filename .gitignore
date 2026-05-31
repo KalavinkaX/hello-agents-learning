@@ -1,0 +1,11 @@
+.env
+
+# 虚拟环境
+.venv/
+
+# Python 编译缓存
+__pycache__/
+*.pyc
+
+# Claude Code 工作目录
+.claude/
